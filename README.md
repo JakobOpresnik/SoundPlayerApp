@@ -1,5 +1,5 @@
 # Sound Player App
-simple Android app for playing sounds
+simple Android app for playing sounds, developed using expo & react native
 
 ## SETUP
 
